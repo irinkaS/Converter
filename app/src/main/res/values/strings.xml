@@ -9,4 +9,15 @@
             <item>EUR</item>
             <item>USD</item>
         </string-array>
+
+    <string name="RUB_RUB">1</string>
+    <string name="USD_USD">1</string>
+    <string name="EUR_EUR">1</string>
+    <string name="RUB_USD"></string>
+    <string name="RUB_EUR"></string>
+    <string name="USD_RUB"></string>
+    <string name="EUR_RUB"></string>
+    <string name="EUR_USD"></string>
+    <string name="USD_EUR"></string>
+    <string name="TIME_OF_NEXT_REQ">timeOfNextReq</string>
 </resources>
